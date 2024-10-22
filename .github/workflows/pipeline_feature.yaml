@@ -9,7 +9,7 @@ on:
       - feature
 
 jobs:
-  lint_and_test:
+  Prettier_lint_and_test:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
