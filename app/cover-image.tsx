@@ -1,6 +1,7 @@
 import ContentfulImage from "../lib/contentful-image";
 import Link from "next/link";
 
+// eslint-disable-next-line
 function cn(...classes: any[]) {
   return classes.filter(Boolean).join(" ");
 }

@@ -5,6 +5,7 @@ export default function Avatar({
   picture,
 }: {
   name: string;
+  // eslint-disable-next-line
   picture: any;
 }) {
   return (
